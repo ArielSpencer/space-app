@@ -3,7 +3,7 @@ import EstilosGlobais from "./componentes/EstilosGlobais";
 import Cabecalho from "./componentes/Cabecalho";
 import BarraLateral from "./componentes/BarraLateral";
 import Banner from "./componentes/Banner";
-import bannerBackground from "./assets/banner.png";
+import bannerBackground from "./assets/banner.jpg";
 import Galeria from "./componentes/Galeria";
 import fotos from "./fotos.json";
 import { useState } from "react";
@@ -11,7 +11,7 @@ import ModalZoom from "./componentes/ModalZoom";
 import Rodape from "./componentes/Rodape";
 
 const FundoGradiente = styled.div`
-  background: linear-gradient(174.61deg, #041833 4.16%, #04244F 48%, #154580 96.76%);
+  background: linear-gradient(174.61deg, #021731 4.16%, #180126 48%, #010c1a 96.76%);
   width: 100%;
   min-height: 100vh;
 `

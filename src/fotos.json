@@ -1,71 +1,71 @@
 [
   {
-    "titulo": "Grande Nuvem de Magalhães",
-    "fonte": "AriSpace",
-    "path": "/imagens/galeria/foto-1.png",
+    "titulo": "Carina Nebula",
+    "fonte": "Telescópio Espacial James Webb",
+    "path": "/imagens/galeria/carina-nebula.png",
     "id": "1",
     "tagId": 2
   },
   {
-    "titulo": "Via Láctea",
-    "fonte": "AriSpace",
-    "path": "/imagens/galeria/foto-2.png",
+    "titulo": "Vênus",
+    "fonte": "Sonda Espacial Magellan",
+    "path": "/imagens/galeria/venus.png",
     "id": "2",
     "tagId": 2
   },
   {
-    "titulo": "Lua: quarto minguante",
-    "fonte": "AriSpace",
-    "path": "/imagens/galeria/foto-3.png",
+    "titulo": "NGC 7635",
+    "fonte": "Telescópio espacial Hubble",
+    "path": "/imagens/galeria/ngc-7635.png",
     "id": "3",
     "tagId": 3
   },
   {
-    "titulo": "Galáxia de Andrómeda",
-    "fonte": "AriSpace",
-    "path": "/imagens/galeria/foto-4.png",
+    "titulo": "Júpiter",
+    "fonte": "Sonda Espacial Juno",
+    "path": "/imagens/galeria/jupiter.png",
     "id": "4",
     "tagId": 2
   },
   {
-    "titulo": "Estrela Pistola",
-    "fonte": "AriSpace",
-    "path": "/imagens/galeria/foto-5.png",
+    "titulo": "Messier 81 (M81)",
+    "fonte": "Telescópios espaciais Spitzer e Hubble",
+    "path": "/imagens/galeria/m81-galaxy.png",
     "id": "5",
     "tagId": 1
   },
   {
-    "titulo": "Ilustração",
-    "fonte": "AriSpace",
-    "path": "/imagens/galeria/foto-6.png",
+    "titulo": "Nebulosa da Aranha Vermelha",
+    "fonte": "Telescópio Espacial Hubble",
+    "path": "/imagens/galeria/giant-red-spider-nebula.png",
     "id": "6",
     "tagId": 4
   },
   {
-    "titulo": "Galáxia de Andrómeda",
-    "fonte": "AriSpace",
-    "path": "/imagens/galeria/foto-7.png",
+    "titulo": "Terra Vista da Estação Espacial Internacional",
+    "fonte": "Reid Wiseman",
+    "path": "/imagens/galeria/earth.png",
     "id": "7",
     "tagId": 2
   },
   {
-    "titulo": "Ilustração",
-    "fonte": "AriSpace",
-    "path": "/imagens/galeria/foto-8.png",
+    "titulo": "Lua Dione",
+    "fonte": "Voyager",
+    "path": "/imagens/galeria/dione.png",
     "id": "8",
     "tagId": 4
   },
   {
-    "titulo": "Céu estrelado",
-    "fonte": "AriSpace",
-    "path": "/imagens/galeria/foto-9.png",
+    "titulo": "Nebulosa do Caranguejo",
+    "fonte": "Telescópios espaciais Herschel e Hubble",
+    "path": "/imagens/galeria/crab-nebula.png",
     "id": "9",
     "tagId": 1
   },
   {
-    "titulo": "Ilustração",
-    "fonte": "AriSpace",
-    "path": "/imagens/galeria/foto-10.png",
+    "titulo": "A Nebulosa do Jato Gêmeo",
+    "fonte": "Telescópio espacial Hubble",
+    "path": "/imagens/galeria/a-nebulosa-do-jato-gemeo.png",
     "id": "10",
     "tagId": 1
   }
